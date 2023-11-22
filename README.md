@@ -16,6 +16,19 @@ A complete GO API
 * Gorilla mux
 * Gorm
 
+## Initialize
+<details>
+  <summary>Initialize Go's API</summary>
+  <p>Get to the directory</p>
+  <p>Configure your server you want to listen, by default is in 8098</p>
+  <p>go run main.go</p>
+  <p>Open a new CMD terminal</p>
+  <p>Get to the directory and run the method you want to try</p>
+  <p>POST Method // go run addUser.go</p>
+  <p>PATCH Method // go run updateUser.go</p>
+  <p>DELETE Method // go run deleteUser.go</p>
+</details>
+
 ## Contributing
 
 1. Fork it!
